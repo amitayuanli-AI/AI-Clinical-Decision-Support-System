@@ -15,7 +15,7 @@ This project demonstrates the application of AI in healthcare, clinical informat
 ![Demo](images2-demo_interface.png)
 
 ## System Workflow
-![Workflow](images/flowchart.png)
+![Workflow](images/flowchart-1.png)
 
 
 ---
