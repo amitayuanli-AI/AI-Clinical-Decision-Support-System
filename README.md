@@ -11,8 +11,11 @@ This project demonstrates the application of AI in healthcare, clinical informat
 ---
 
 ## Demo Interface
-<img width="1182" height="1027" alt="截屏2026-03-22 16 04 57" src="https://github.com/user-attachments/assets/0c648571-d402-4d95-b362-9e84c60144e3" />
-<img width="1209" height="1230" alt="截屏2026-03-22 16 05 43" src="https://github.com/user-attachments/assets/e3d4e35c-07dd-4f9e-9305-b0a28d0404e9" />
+![Demo](images1-demo_interface.png)
+![Demo](images2-demo_interface.png)
+
+## System Workflow
+![Workflow](images/flowchart.png)
 
 
 ---
